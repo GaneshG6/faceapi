@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faceapi/static/css/main.a9059bcb.css",
+    "main.js": "/faceapi/static/js/main.c696c7e2.js",
+    "static/js/787.1a988f5f.chunk.js": "/faceapi/static/js/787.1a988f5f.chunk.js",
+    "index.html": "/faceapi/index.html",
+    "main.a9059bcb.css.map": "/faceapi/static/css/main.a9059bcb.css.map",
+    "main.c696c7e2.js.map": "/faceapi/static/js/main.c696c7e2.js.map",
+    "787.1a988f5f.chunk.js.map": "/faceapi/static/js/787.1a988f5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9059bcb.css",
+    "static/js/main.c696c7e2.js"
+  ]
+}
